@@ -29,7 +29,7 @@ latest_posts:
 
 Hello, my name is Marcel. I am currently a student at the University of Illinois
 Urbana Champaign studying Political Science with a pre-law track. My interests
-include, sports, spending time outdoors, and current events.
+include, sports, spending time outdoors, and current events. My goal in the future is to work in the legal industry.
 
 Put your address / P.O. box / other info right below your picture. You can also
 disable any of these elements by editing `profile` property of the YAML header of
