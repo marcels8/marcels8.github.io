@@ -28,6 +28,6 @@ latest_posts:
 Hello, my name is Marcel. I am currently a student at the University of Illinois
 Urbana Champaign studying Political Science with a pre-law track. My interests
 include, sports, spending time outdoors, and current events. My goal in the future is to work in the legal industry.
-\
+
 
 
