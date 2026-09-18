@@ -4,34 +4,29 @@ cv:
   email: marcels2@illinois.edu
   location: Champaign, IL
   image: ""
-  summary: Political Science student at the University of Illinois Urbana Champaign. From Chicago area.
-
-
-  
+  summary: >
+    Political Science student at the University of Illinois Urbana Champaign. From Chicago area.
 
   sections:
     Education:
       - institution: University of Illinois Urbana Champaign
         location: Champaign, Illinois
-        url: 
+        url:
         area: Political Science
-        studyType: 
+        studyType:
         start_date: 2026
-        end_date: 
+        end_date:
         score: ""
-        courses: 
+        courses:
         highlights:
-         
 
       - institution: Rolling Meadows High School
         location: Rolling Meadows, Illinois
-        area: 
-        studyType: 
+        area:
+        studyType:
         start_date: 2022
         end_date: 2026
         highlights:
-      
-         
 
     Experience:
       - company: Arlington Heights Park District
@@ -39,19 +34,13 @@ cv:
         location: Arlington Heights, IL
         start_date: 2025
         end_date: 2026
-        summary: Teaching camps and outdoor classes during the summer for children aged 4-14. 
+        summary: >
+          Teaching camps and outdoor classes during the summer for children aged 4-14.
         highlights:
-        
-
-      
-  
-     
-
 
     Languages:
       - name: English, Polish
-        summary: "Native speaker"
+        summary: Native speaker
 
       - name: Spanish
-        summary: " Fairly Fluent"
-
+        summary: Fairly Fluent
