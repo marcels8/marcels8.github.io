@@ -3,7 +3,7 @@
   --global-theme-color: #1d4ed8;
   --global-hover-color: #1e3a8a;
   --global-text-color: #111827;
-  --global-background-color: #ffffff;
+  --global-background-color: #0b1f3a;
   --global-card-background-color: #f9fafb;
 }
 
@@ -11,6 +11,6 @@ html[data-theme="dark"] {
   --global-theme-color: #60a5fa;
   --global-hover-color: #93c5fd;
   --global-text-color: #f3f4f6;
-  --global-background-color: #111827;
+  --global-background-color: #0b1f3a;
   --global-card-background-color: #1f2937;
 }
