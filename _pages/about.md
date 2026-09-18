@@ -32,7 +32,7 @@ include, sports, spending time outdoors, and current events. My goal in the futu
 <div style="clear: both; text-align: left; margin-top: 2rem;">
   <img
     src="{{ '/assets/img/campus.jpg' | relative_url }}"
-    alt="Description of the image"
+    alt="Campus image"
     style="width: 350px; max-width: 100%; height: auto;"
   >
 </div> 
