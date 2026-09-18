@@ -35,5 +35,4 @@ include, sports, spending time outdoors, and current events. My goal in the futu
     alt="Campus image"
     style="width: 350px; max-width: 100%; height: auto;"
   >
-</div> 
-
+</div>
