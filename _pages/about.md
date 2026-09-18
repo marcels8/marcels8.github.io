@@ -29,5 +29,11 @@ Hello, my name is Marcel. I am currently a student at the University of Illinois
 Urbana Champaign studying Political Science with a pre-law track. My interests
 include, sports, spending time outdoors, and current events. My goal in the future is to work in the legal industry.
 
-
+<div style="clear: both; text-align: left; margin-top: 2rem;">
+  <img
+    src="{{ '/assets/img/campus.jpg' | relative_url }}"
+    alt="Description of the image"
+    style="width: 350px; max-width: 100%; height: auto;"
+  >
+</div> 
 
