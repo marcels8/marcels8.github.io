@@ -3,11 +3,9 @@ layout: post
 title: My First Blog Post
 date: 2026-09-20 12:00:00
 description: A short summary of my first blog post.
-tags: AI-websites
+tags: [ai, websites]
 categories: personal
 ---
-
-Write your post here.
 
 Recently, I have been making my very first website using artificial intelligence. I have never made a website before, as I always thought it is a fairly complicated process with coding. One of my family members kept on asking me to make a website for them so they can sell some of the things they make, but I always thought it would be a time consuming process learning a lot of coding. Now with artifical intelligence playing a big role in our society, to the point it can help you make websites, I think I might commit to making a website for that family member.
 
