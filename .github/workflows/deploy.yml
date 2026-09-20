@@ -62,7 +62,6 @@ permissions:
 
 jobs:
   deploy:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -76,7 +75,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-          cache: "pip" # caching pip dependencies
+          cache: "pip"
       - name: Setup Node 🧰
         uses: actions/setup-node@v4
         with:
@@ -94,6 +93,11 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
+          # The tracked Einstein image is a 2-byte placeholder, not a JPEG.
+          # Remove it before jekyll-imagemagick attempts to convert it.
+          if [ ! -s assets/img/einstein_old.jpg ] || ! identify assets/img/einstein_old.jpg >/dev/null 2>&1; then
+            rm -f assets/img/einstein_old.jpg
+          fi
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
